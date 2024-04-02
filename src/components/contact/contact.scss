@@ -1,0 +1,21 @@
+@use "../../styles/partials/colors" as *;
+@use "../../styles/partials/mixins" as *;
+@use "../../styles/partials/fonts" as *;
+@use "../../styles/partials/global" as *;
+
+.contact {
+  padding: 20px;
+  background-color: $secondary;
+
+  &__subhead {
+    margin: 20px 0;
+  }
+
+  &__icons-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    width: 100%;
+  }
+}

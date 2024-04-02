@@ -1,0 +1,35 @@
+@use "./colors" as *;
+@use "./fonts" as *;
+@use "./mixins" as *;
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h1 {
+  font-size: 35px;
+}
+
+h2 {
+  font-weight: 700;
+}
+
+h3 {
+  font-weight: 200;
+}
+
+p {
+    margin: 20px 0;
+}
+
+a {
+  color: $secondary-dark;
+  text-decoration: none;
+
+  &:visited {
+      color: $secondary-dark;
+
+  }
+}

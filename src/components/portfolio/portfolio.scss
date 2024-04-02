@@ -1,0 +1,51 @@
+@use "../../styles/partials/colors" as *;
+@use "../../styles/partials/mixins" as *;
+@use "../../styles/partials/fonts" as *;
+@use "../../styles/partials/global" as *;
+
+.portfolio {
+  padding: 20px;
+  background-color: $primary-light;
+
+  &__buttons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  &__tabs {
+    background-color: white;
+    border: 3px solid $primary;
+    border-radius: 10px;
+    padding: 20px;
+  }
+
+  &__list {
+    margin-left: 24px;
+    margin-bottom: 20px;
+  }
+
+  &__header {
+    margin-bottom: 12px;
+  }
+
+  &__screenshot {
+    width: 100%;
+    margin: 12px 0;
+      box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  }
+}
+
+button {
+  background-color: $secondary-dark;
+  border: 1px solid $secondary-dark;
+  border-radius: 10px;
+  padding: 12px;
+  color: white;
+  margin: 12px;
+
+  &:hover {
+    background-color: white;
+    color: $secondary-dark;
+  }
+}
