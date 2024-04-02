@@ -33,10 +33,11 @@
 
     @include tablet {
       text-align: center;
+ 
     }
 
     @include desktop {
-      width: 50%;
+          text-align: center;
     }
   }
 }
