@@ -24,7 +24,7 @@ function About() {
           <b>Postmedia</b>.
         </p>
         <p>
-          In 2021, I made the swich to content marketing and worked as a senior
+          In 2021, I made the switch to content marketing and worked as a senior
           writer at <b>Shopify</b>.
         </p>
         <p>
