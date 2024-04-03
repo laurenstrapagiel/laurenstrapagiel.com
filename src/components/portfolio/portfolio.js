@@ -17,7 +17,7 @@ function Portfolio() {
           onClick={() => handleTabClick("tab1")}
           className={activeTab === "tab1" ? "active" : ""}
         >
-          Content + Newsletters
+          Content
         </button>
         <button
           onClick={() => handleTabClick("tab2")}
