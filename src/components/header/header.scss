@@ -28,10 +28,12 @@
   }
 
   &__list-item {
-    margin: 0 12px;
+    margin: 0 5px;
     background-color: white;
-    padding: 12px;
+    padding: 10px;
     border-radius: 10px;
+    font-size: 12px;
+
 
     &:hover {
       background-color: $secondary;
