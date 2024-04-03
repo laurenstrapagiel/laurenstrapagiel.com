@@ -20,11 +20,10 @@ function About() {
       <div className="about__bio">
         <p>
           Most of my career was spent in journalism, with editing and reporting
-          roles at <b>BuzzFeed News</b>, <b>HuffPostCanada</b>, and{" "}
-          <b>Postmedia</b>.
+          roles at <b>BuzzFeed News</b>, <b>HuffPostCanada</b>, and <b>Postmedia</b>.
         </p>
         <p>
-          In 2021, I made the swich to content marketing and worked as a senior
+          In 2021, I made the switch to content marketing and worked as a senior
           writer at <b>Shopify</b>.
         </p>
         <p>

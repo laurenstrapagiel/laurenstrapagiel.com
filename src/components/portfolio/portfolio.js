@@ -265,7 +265,10 @@ function Portfolio() {
         )}
         {activeTab === "tab3" && (
           <div className="portfolio__tab3">
-            <h2 className="portfolio__header">Coding</h2> <h3>5Things</h3>
+            <h2 className="portfolio__header">Coding</h2>{" "}
+            <h3>
+              <a href="https://www.5things.ca">5Things.ca</a>
+            </h3>
             <img
               src={ProfilePage}
               className="portfolio__screenshot"
