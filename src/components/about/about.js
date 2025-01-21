@@ -27,12 +27,12 @@ function About() {
           writer at <b>Shopify</b>.
         </p>
         <p>
-          For the last two years, I've been a freelance writer, producing SEO
+          For several years, I've was a freelance writer, producing SEO
           blog posts for SaaS companies, case studies, and newsletters.
         </p>
         <p>
           In 2024, I completed <b>BrainStation's Software Engineering</b>{" "}
-          bootcamp.
+          bootcamp and then joined Fellow as a content marketer.
         </p>
       </div>
     </section>

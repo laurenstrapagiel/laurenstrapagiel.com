@@ -36,6 +36,28 @@ function Portfolio() {
         {activeTab === "tab1" && (
           <div className="portfolio__tab1">
             <h2 className="portfolio__header">Content Marketing</h2>
+            <h3>Fellow</h3>
+            <ul className="portfolio__list">
+              <li>
+                <a href="https://fellow.app/resources/state-of-meetings-2024">
+                  2024 State of Meetings Report
+                </a>
+              </li>
+              <li>
+                <a href="https://fellow.app/blog/meetings/ai-note-taking-a-smarter-way-to-manage-meetings/">
+                  AI Note Takers: The Ultimate Tool For Effortless Meetings
+                </a>
+              </li>
+              <li>
+                <a
+                  href="https://fellow.app/blog/security/why-one-ai-meeting-assistant/
+"
+                >
+                  Protect Your Data in the Wild West of Bots with One AI Meeting
+                  Assistant
+                </a>
+              </li>
+            </ul>
             <h3>Kapwing</h3>
             <ul className="portfolio__list">
               <li>
