@@ -27,7 +27,7 @@ function About() {
           writer at <b>Shopify</b>.
         </p>
         <p>
-          For several years, I've was a freelance writer, producing SEO
+          For several years, I was a freelance writer, producing SEO
           blog posts for SaaS companies, case studies, and newsletters.
         </p>
         <p>
